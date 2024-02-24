@@ -1,4 +1,4 @@
-
+![img](https://github.com/dev-anand-nikhil/dev-anand-nikhil/blob/main/icon.png?raw=true)
 <h1 align="center">Hey guys👋, I'm Nikhil Anand</h1>
 <h3 align="center">Aspiring software developer from IIT Guwahati</h3>
 
